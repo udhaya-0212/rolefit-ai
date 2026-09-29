@@ -1,0 +1,22 @@
+Riya Sharma
+Computer Science student | 2026
+
+SUMMARY
+Final-year Computer Science student with hands-on experience building data-driven web applications. Strong foundation in Python, SQL and machine learning. Enjoys translating user needs into reliable software.
+
+EDUCATION
+B.E. Computer Science, Anna University — 2022–2026 | CGPA 8.6/10
+
+PROJECTS
+Retail Demand Forecasting | Python, Pandas, scikit-learn, Flask
+Built a demand forecasting pipeline on 18,000 retail records; compared regression models and reduced validation MAE by 17%. Created a Flask dashboard for weekly forecast review.
+
+Campus Connect | React, Node.js, PostgreSQL
+Developed a student opportunities portal used by 120 peers. Designed REST APIs, role-based access and SQL reporting; added automated tests for core flows.
+
+EXPERIENCE
+Data Intern, BrightPath Analytics | May–Jul 2025
+Cleaned and analyzed 12,000 customer records using Python and SQL. Automated recurring reports, saving the team approximately 5 hours per week. Presented findings to a 4-person product team.
+
+SKILLS
+Python, SQL, JavaScript, React, Node.js, PostgreSQL, Pandas, scikit-learn, Git, REST APIs, data visualization, communication, teamwork

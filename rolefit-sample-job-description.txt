@@ -1,0 +1,19 @@
+Graduate Data Analyst — Product Insights
+
+We are looking for an early-career analyst to help product teams make evidence-based decisions.
+
+Responsibilities
+• Query and analyze large datasets using SQL and Python
+• Build dashboards and communicate insights to stakeholders
+• Develop forecasting or statistical models to support planning
+• Collaborate with engineering and product partners
+• Maintain reliable, well-documented analytical workflows
+
+Requirements
+• Bachelor's degree in Computer Science, Statistics or related field
+• Strong Python and SQL skills; experience with Pandas
+• Knowledge of machine learning, regression or forecasting
+• Experience building dashboards using Tableau or Power BI
+• Familiarity with A/B testing and experimental design
+• Clear written communication and cross-functional teamwork
+• Git experience and attention to data quality

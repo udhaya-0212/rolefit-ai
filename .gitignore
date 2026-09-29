@@ -1,0 +1,20 @@
+# Never commit personal resume material
+rolefit-private-*
+*-private-resume.*
+private-resumes/
+*.user-resume.txt
+*.personal-resume.pdf
+
+# Local caches and temporary assets
+.cache/
+node_modules/
+*.log
+
+__pycache__/
+*.py[cod]
+*.pdf
+*.docx
+*.jpg
+*.jpeg
+*.png
+*.webp
