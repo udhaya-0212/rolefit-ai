@@ -36,7 +36,7 @@ Resume and job text are read and analyzed in the browser. They are not sent to a
 - `rolefit-ai-project-guide.md` — architecture, demo speech, resume bullets, limitations.
 - `rolefit-sample-resume.txt` and `rolefit-sample-job-description.txt` — fictional demo data.
 
-Your attached resume is used only in the local preview session and is not part of this public-ready folder. Keep personal resumes and contact details out of any public repository.
+Keep personal resumes and contact details out of this public repository.
 
 ## Deployment
 
